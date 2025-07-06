@@ -45,16 +45,11 @@ Combines OpenAI's GPT-4 and Pinecone vector search for accurate, context-aware a
 
 ## 📄 Usage
 
-1. **Clone the repo:**
-    ```
-    git clone https://github.com/yourusername/business-rag-qa-bot.git
-    cd business-rag-qa-bot
-    ```
+1. **Download the ipynb file:**
+   
 
-2. **Run the main script:**
-    ```
-    python business_rag_qa_bot.py
-    ```
+2. **Run the ipynb file:**
+
 
 3. **Sample questions:**
     ```
